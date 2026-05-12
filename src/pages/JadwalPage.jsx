@@ -36,7 +36,7 @@ const JadwalPage = () => {
   return (
     <>
       <Helmet>
-        <title>Jadwal - ProjeKita</title>
+<title>Jadwal - ManPro3</title>
         <meta name="description" content="View project timelines and milestones in Gantt chart format" />
       </Helmet>
 

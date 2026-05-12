@@ -1,6 +1,6 @@
-# ProjeKita - Project Management Web Application
+# ManPro3 - Project Management Web Application
 
-ProjeKita adalah aplikasi manajemen proyek berbasis web yang dibangun dengan React, Vite, dan Tailwind CSS. Aplikasi ini menyediakan fitur lengkap untuk mengelola proyek, tugas, jadwal, risiko, dan tim dalam satu platform terpadu.
+ManPro3 adalah aplikasi manajemen proyek berbasis web yang dibangun dengan React, Vite, dan Tailwind CSS. Aplikasi ini menyediakan fitur lengkap untuk mengelola proyek, tugas, jadwal, risiko, dan tim dalam satu platform terpadu.
 
 ## Fitur Utama
 

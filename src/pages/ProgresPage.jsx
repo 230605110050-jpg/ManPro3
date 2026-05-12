@@ -31,7 +31,7 @@ const ProgresPage = () => {
   return (
     <>
       <Helmet>
-        <title>Progres - ProjeKita</title>
+<title>Progres - ManPro3</title>
         <meta name="description" content="Track project progress with detailed analytics and charts" />
       </Helmet>
 

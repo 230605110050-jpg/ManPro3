@@ -34,7 +34,7 @@ const RisikoPage = () => {
   return (
     <>
       <Helmet>
-        <title>Risiko - ProjeKita</title>
+<title>Risiko - ManPro3</title>
         <meta name="description" content="Identify and manage project risks with risk matrix visualization" />
       </Helmet>
 

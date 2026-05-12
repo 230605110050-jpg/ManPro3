@@ -31,7 +31,7 @@ const TimPage = () => {
   return (
     <>
       <Helmet>
-        <title>Tim - ProjeKita</title>
+<title>Tim - ManPro3</title>
         <meta name="description" content="Manage team members and track their performance" />
       </Helmet>
 

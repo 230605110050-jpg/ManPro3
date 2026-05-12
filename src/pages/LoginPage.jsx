@@ -38,8 +38,8 @@ const LoginPage = () => {
   };
   return <>
       <Helmet>
-        <title>Login - ProjeKita</title>
-        <meta name="description" content="Login to ProjeKita project management platform" />
+<title>Login - ManPro3</title>
+<meta name="description" content="Login to ManPro3 project management platform" />
       </Helmet>
 
       <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-primary/5 via-background to-accent/5 px-4">

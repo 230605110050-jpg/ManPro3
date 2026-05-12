@@ -26,7 +26,7 @@ const ProyekPage = () => {
   return (
     <>
       <Helmet>
-        <title>Proyek - ProjeKita</title>
+<title>Proyek - ManPro3</title>
         <meta name="description" content="Manage and track all your projects in one place" />
       </Helmet>
 

@@ -57,7 +57,7 @@ const NotifikasiPage = () => {
   return (
     <>
       <Helmet>
-        <title>Notifikasi - ProjeKita</title>
+<title>Notifikasi - ManPro3</title>
         <meta name="description" content="View and manage your notifications" />
       </Helmet>
 

@@ -38,7 +38,7 @@ const TugasPage = () => {
   return (
     <>
       <Helmet>
-        <title>Tugas - ProjeKita</title>
+<title>Tugas - ManPro3</title>
         <meta name="description" content="Manage and track all your tasks with kanban board view" />
       </Helmet>
 

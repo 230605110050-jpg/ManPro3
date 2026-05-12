@@ -40,7 +40,7 @@ const LaporanPage = () => {
   return (
     <>
       <Helmet>
-        <title>Laporan - ProjeKita</title>
+<title>Laporan - ManPro3</title>
         <meta name="description" content="Generate and export project reports" />
       </Helmet>
 

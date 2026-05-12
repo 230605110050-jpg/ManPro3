@@ -30,8 +30,8 @@ const DashboardPage = () => {
   return (
     <>
       <Helmet>
-        <title>Dashboard - ProjeKita</title>
-        <meta name="description" content="ProjeKita project management dashboard with overview of projects, tasks, and team activities" />
+<title>Dashboard - ManPro3</title>
+<meta name="description" content="ManPro3 project management dashboard with overview of projects, tasks, and team activities" />
       </Helmet>
 
       <div className="container py-8 space-y-8">

@@ -52,7 +52,7 @@ const SettingsPage = () => {
   return (
     <>
       <Helmet>
-        <title>Settings - ProjeKita</title>
+<title>Settings - ManPro3</title>
         <meta name="description" content="Manage your account settings and preferences" />
       </Helmet>
 
