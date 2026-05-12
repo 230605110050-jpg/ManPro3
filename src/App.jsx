@@ -5,7 +5,9 @@ import { AuthProvider } from '@/contexts/AuthContext.jsx';
 import ProtectedRoute from '@/components/ProtectedRoute.jsx';
 import ScrollToTop from '@/components/ScrollToTop.jsx';
 import MainLayout from '@/components/MainLayout.jsx';
+import HomePage from '@/pages/HomePage.jsx';
 import LoginPage from '@/pages/LoginPage.jsx';
+import SignUpPage from '@/pages/SignUpPage.jsx';
 import DashboardPage from '@/pages/DashboardPage.jsx';
 import ProyekPage from '@/pages/ProyekPage.jsx';
 import TugasPage from '@/pages/TugasPage.jsx';
@@ -23,7 +25,12 @@ function App() {
       <Router>
         <ScrollToTop />
         <Routes>
-          <Route path="/" element={<LoginPage />} />
+          {/* Public Routes */}
+          <Route path="/" element={<HomePage />} />
+          <Route path="/login" element={<LoginPage />} />
+          <Route path="/signup" element={<SignUpPage />} />
+          
+          {/* Protected Routes */}
           <Route
             path="/*"
             element={
